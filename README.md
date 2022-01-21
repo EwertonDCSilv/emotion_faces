@@ -6,4 +6,4 @@
 
 **Baixar do GitHub**: https://github.com/EwertonDCSilv/nlp_final_project \
 
-**Relatório**: https://github.com/EwertonDCSilv/hcml_faces/blob/master/HCML%20-%20Rel%C3%A1torio%20Trabalho%20Pr%C3%A1tico%20%20.pdf \
+**Relatório**: https://github.com/EwertonDCSilv/emotion_faces/blob/master/HCML%20-%20Rel%C3%A1torio%20Trabalho%20Pr%C3%A1tico%20%20.pdf \
