@@ -4,6 +4,6 @@
 
 **Sobre o Dataset**: FairFace é dataset de faces humanas que busca atingir maior igualdade entre gênero e raças, na tentativa de reduzir a possibilidade de um eventual viés nos resultados de uma classificação vir dos dados.
 
-**Baixar do GitHub**: https://github.com/EwertonDCSilv/nlp_final_project \
+**Baixar do GitHub**: https://github.com/EwertonDCSilv/emotion_faces \
 
 **Relatório**: https://github.com/EwertonDCSilv/emotion_faces/blob/master/HCML%20-%20Rel%C3%A1torio%20Trabalho%20Pr%C3%A1tico%20%20.pdf \
